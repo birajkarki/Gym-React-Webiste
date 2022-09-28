@@ -1,3 +1,7 @@
+This is my part of learning React with building stuff and in this repo i created gym fully responsive website for data I fetch from RapidApi .
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
